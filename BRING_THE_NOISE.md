@@ -1,4 +1,4 @@
-# Bringing the Noise: Secure Communication in BitChat
+1# Bringing the Noise: Secure Communication in BitChat
 
 ## Overview
 
